@@ -11,3 +11,5 @@ Le répertoire synesth_input contient les deux arbres consensus enracinés forma
 Process_all_genomes.ipynb est un jupyter notebook utilisé pour extraire les bons gènes. La construction des dictionnaires a été faite manuellement considérant le faible nombre d’espèces considérées, mais l’automatisation de ce processus est très simple. 
 create_concat_alignment.py permet de produire la concaténation de gènes alignés. Attention, il faut modifier les paths sur votre machine. 
 
+Voici le lien vers le document de knowledge Transfer:
+https://docs.google.com/document/d/1zKmySooJvNkUu0Av8GjnKizvZJWegCOsjbxGAHTM0mc/edit?usp=sharing
